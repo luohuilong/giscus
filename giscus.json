@@ -2,7 +2,6 @@
   "origins": [
     "https://wait.loan",
     "https://www.wait.loan",
-    // 可以继续添加其他子域名，如 blog.wait.loan 等
   ],
   "originsRegex": [
     "^https://([a-zA-Z0-9-]+\\.)?wait\\.loan$"
