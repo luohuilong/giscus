@@ -1,9 +1,0 @@
-{
-  "origins": [
-    "https://wait.loan",
-    "https://www.wait.loan",
-  ],
-  "originsRegex": [
-    "^https://([a-zA-Z0-9-]+\\.)?wait\\.loan$"
-  ]
-}
