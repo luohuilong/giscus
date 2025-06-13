@@ -1,0 +1,6 @@
+{
+  "origins": [],
+  "originsRegex": [
+    "^https://([a-zA-Z0-9-]+\\.)?wait\\.loan(\\/|$)"
+  ]
+}
