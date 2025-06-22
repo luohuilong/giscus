@@ -3,5 +3,6 @@
   "originsRegex": [
     "^https://([a-zA-Z0-9-]+\\.)?wait\\.loan(\\/|$)"
     "^https://([a-zA-Z0-9-]+\\.)?fork\\.pub(\\/|$)"
+    "^https://([a-zA-Z0-9-]+\\.)?dut\\.pub(\\/|$)"
   ]
 }
